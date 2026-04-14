@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# jq is not a module in Iridis 6 atm so I've installed it in my conda env bedtools
 # Load in JSON reader
 source /iridisfs/i6software/conda/miniconda-py3/etc/profile.d/conda.sh
 conda activate bedtools

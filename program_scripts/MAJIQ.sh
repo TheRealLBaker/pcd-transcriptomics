@@ -5,10 +5,6 @@
 source /iridisfs/i6software/conda/miniconda-py3/etc/profile.d/conda.sh
 conda activate bedtools
 
-## virtual environment activation
-#cd /mainfs/scratch/lb3e23/Majiq_env/
-#source majiq/bin/activate
-
 # Initialise the environment exactly like a login shell
 source /etc/profile
 module --ignore_cache apptainer/1.4.2
